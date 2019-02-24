@@ -1,6 +1,6 @@
-﻿using System.Web.Mvc;
+﻿using ChangeCalc.Controllers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ChangeCalc.Controllers;
+using System.Web.Mvc;
 
 namespace ChangeCalc.Tests.Controllers
 {

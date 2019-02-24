@@ -1,6 +1,6 @@
-﻿using System;
-using ChangeCalc.Controllers;
+﻿using ChangeCalc.Controllers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 
 namespace ChangeCalc.Tests.Controllers
 {
